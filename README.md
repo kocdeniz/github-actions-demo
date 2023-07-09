@@ -1,4 +1,4 @@
-# Flask Web App Tutorial
+# Flask test purpose web application for actions ci/cd
 
 ## Setup & Installation
 
